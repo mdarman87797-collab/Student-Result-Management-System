@@ -1,11 +1,10 @@
-# Student-Result-Management-System
 # Project Title :
 Student-Result-Management-System
 # Project members :
     1.Name: Arman Sikder
       ID :41240202255
-     2. Md. Fahim Foysal Billah
-       ID :41240202376
+    2. Md. Fahim Foysal Billah
+      ID :41240202376
 # Description:
  The Student Result Management System is a console-based application developed in C, designed to streamline the process of managing student records and academic performance. It utilizes file handling (binary files) to ensure data persistence, allowing information to be stored and retrieved even after the program is closed.
 
